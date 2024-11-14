@@ -5,14 +5,16 @@
 
 Приложение «Продуктовый помощник»: сайт, на котором пользователи могут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов. Сервис «Список покупок» позволит пользователям создавать список продуктов, которые нужно купить для приготовления выбранных блюд.
 
-### Технологии:
-- Python,
-- Django,
-- Django REST framework,
-- Gunicorn,
-- Nginx,
-- Docker,
-- PostgreSQL.
+## Технологии
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?&logo=django)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql)](https://www.postgresql.org/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-grey?logo=django)](https://www.django-rest-framework.org/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-grey?logo=gunicorn)](https://gunicorn.org/)
+[![nginx](https://img.shields.io/badge/nginx-grey?logo=nginx)](https://nginx.org/)
+[![Docker](https://img.shields.io/badge/Docker-grey?logo=docker)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker_Compose-grey?logo=docker)](https://docs.docker.com/compose/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-grey?logo=githubactions)](https://github.com/features/actions)
 
 
 ## Как запустить проект на удалённом сервере:
